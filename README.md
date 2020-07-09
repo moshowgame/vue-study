@@ -17,7 +17,7 @@
 |-|-|
 |vue-route|包含vue-route|
 |vue-webpack|包含vue-webpack|
-
+|vue-element|包含vuex+element+express|
 
 ```bash
 yarn add webpack webpack-dev-server vue-loader vue-html-loader css-loader vue-style-loader file-loader babel-loader babel-core babel-preset-env vue-template-compiler
